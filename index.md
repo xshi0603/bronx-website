@@ -1,6 +1,17 @@
 ## Welcome to Bronx
+by: Xing Tao, Rachel, Namira, Edgardo
 
-You can use the [editor on GitHub](https://github.com/xshi0603/bronx-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Neighborhood Statistics
+
+insert text here
+
+### Neighborhood Rankings
+
+insert text here
+
+### Neighborhood Data Analysis
+
+insert text here
 
 ### Other Pages
 [Concourse](https://xshi0603.github.io/concourse-webpage/)
