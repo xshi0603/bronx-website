@@ -21,7 +21,17 @@ by: Xing Tao, Rachel, Namira, Edgardo
 
 ### Borough Data Analysis
 
-insert text here
+![Graph1](/Graph1.PNG)
+
+This graph displays the number of restaurants based on two different categories, the borough and whether the restaurant serves on the sidewalk, roadway, or on both. We can see that Manhattan has the highest number of restaurants overall and that the Bronx falls behind every borough besides Staten Island in the number of restaurants. However, something to note is that a majority of Bronx restaurants serve both on the sidewalks and on the roadways.
+
+![Graph2](/Graph2.PNG)
+
+This graph displays the average sidewalk area by borough in New York City. The main point to take away from this graph is that the Bronx has the highest average sidewalk area in all of the boroughs. Because of this, we can see why the Bronx has such a low amount of restaurants that only offer services on the roadway from the previous graph.
+
+![Graph3](/Graph3.PNG)
+
+This graph displays the number of restaurants based on two different categories, the borough and whether the restaurant serves alcohol or not. We can see that Manhattan has the highest number of restaurants overall and that the Bronx falls behind every borough besides Staten Island in the number of restaurants. However, something to note is that a fairly even percentage of restaurants in the Bronx serve alcohol in the Bronx compared to the dominating percentage in the other boroughs.
 
 ### Other Pages
 [Concourse](https://xshi0603.github.io/concourse-webpage/)
