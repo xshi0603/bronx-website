@@ -3,13 +3,13 @@ by: Xing Tao, Rachel, Namira, Edgardo
 
 ### Borough Statistics
 
-- Median Age: 32.3 years
-- Percentage Male: 46.88%
-- Percentage Foreign: 36.70%
-- Household Size: 2.73
-- Median Household Income: $29,282
-- Poverty Levels: 36.51%
-- Marital Status - Married: 33.83%
+- Median Age: 34.2 years
+- Percentage Male: 47.14%
+- Percentage Foreign: 35.29%
+- Household Size: 2.76
+- Median Household Income: $21,778
+- Poverty Levels: 28.01%
+- Marital Status - Married: 36.93%
 
 ### Neighborhood Rankings
 
